@@ -194,9 +194,10 @@ This will interpolate the format string with the value of methods `name.lastName
   * paragraphs
   * text
   * lines
-* mobile
-  *manufacturer
-  *model
+* mobile catagory
+  * manufacturer
+  * model
+  * manufacturer+model
 * name
   * firstName
   * lastName
